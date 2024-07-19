@@ -1,5 +1,5 @@
 package practiceproblems;
-
+// Question 1 
 public class MyClass {
 	 private static int count = 0;
 	   private int x;
