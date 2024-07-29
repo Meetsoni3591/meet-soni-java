@@ -1,6 +1,7 @@
 package abstraction;
 
 public class TestAbstract extends Dog {
+	Dog d = new Dog();
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
